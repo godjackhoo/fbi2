@@ -30,14 +30,14 @@ $ pip2 install -r requirements.txt
 $ python2 fbi.py
 ```
 # [ Screenshot ]
-<img src="https://ibb.co/ZSqHdwJ"/>
+<img src="https://i.ibb.co/xYxmhcs/fbi.png"/>
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
 
-![](https://ibb.co/27m8sDd)
+![](https://i.ibb.co/TBpKbVt/donate-eth.png)
 
-   ![](https://ibb.co/qpn1JZB)
+   ![](https://i.ibb.co/pdPXhm2/download.png)
 
 ETH: 0xfb0c8da30ff57e95c89ebabc8e69f22b4500e423
